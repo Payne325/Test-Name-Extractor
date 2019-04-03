@@ -1,0 +1,5 @@
+D:\Portfolio\TestNameParser\ExampleTests\bin\Debug\ExampleTests.dll
+D:\Portfolio\TestNameParser\ExampleTests\bin\Debug\ExampleTests.pdb
+D:\Portfolio\TestNameParser\ExampleTests\obj\Debug\ExampleTests.csprojResolveAssemblyReference.cache
+D:\Portfolio\TestNameParser\ExampleTests\obj\Debug\ExampleTests.dll
+D:\Portfolio\TestNameParser\ExampleTests\obj\Debug\ExampleTests.pdb

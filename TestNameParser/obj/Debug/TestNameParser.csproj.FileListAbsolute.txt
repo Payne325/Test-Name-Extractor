@@ -1,0 +1,6 @@
+D:\Portfolio\TestNameParser\TestNameParser\bin\Debug\TestNameParser.exe.config
+D:\Portfolio\TestNameParser\TestNameParser\bin\Debug\TestNameParser.exe
+D:\Portfolio\TestNameParser\TestNameParser\bin\Debug\TestNameParser.pdb
+D:\Portfolio\TestNameParser\TestNameParser\obj\Debug\TestNameParser.csprojResolveAssemblyReference.cache
+D:\Portfolio\TestNameParser\TestNameParser\obj\Debug\TestNameParser.exe
+D:\Portfolio\TestNameParser\TestNameParser\obj\Debug\TestNameParser.pdb
